@@ -14,5 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### 📞 **connect** : sgh115@naver.com , sonsanghee3@gmail.com
 ### 📺 **Language** : `Java`, `Javascript`, `Kotlin`
 ### 📫 **Job** : `Baekend`
