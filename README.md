@@ -50,7 +50,7 @@ Here are some ideas to get you started:
     - **로그인 관리**: Oauth2와 Jwt 토큰 기반의 로그인 시스템 구현, Access token과 Refresh token 활용.
     - **상태 관리**: GetX를 사용한 Flutter 상태값 관리 및 UI 양방향 바인딩 구현.
 - **링크**: 
-  - [프로젝트 노션](https://www.notion.so/2ea3e9b350f54686abddce1c4a282def)
+  - [개요 및 문제해결](https://www.notion.so/2ea3e9b350f54686abddce1c4a282def)
   - [시연 영상](https://www.youtube.com/watch?v=NuTWiTgqucM)
   - [GitHub 프론트 링크](https://github.com/Higangssh/asome-fe-flutter)
   - [GitHub 백엔드 링크](https://github.com/Higangssh/Awesome_Baek)
@@ -64,7 +64,7 @@ Here are some ideas to get you started:
     - **다중 음성 및 영상 통화**: WebRtc를 활용하여 P2P 연결을 위한 SDP 교환 및 ICE 협상을 중개하는 시그널링 서버 구축.
     - **API 구축**: 테이블 설계 및 RESTful API 형식에 맞춘 CRUD 기능 구현.
 - **링크**: 
-  - [프로젝트 노션](https://www.notion.so/0ad949a6825a449ea52ddf78af9b0d72)
+  - [개요 및 문제해결](https://www.notion.so/0ad949a6825a449ea52ddf78af9b0d72)
   - [시연 영상](https://www.youtube.com/watch?v=jVMS_riHU-0&t=2s)
   - [GitHub 백엔드 링크](https://github.com/Higangssh/acorn-final-be)
 
