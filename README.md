@@ -64,7 +64,7 @@ Here are some ideas to get you started:
     - **다중 음성 및 영상 통화**: WebRtc를 활용하여 P2P 연결을 위한 SDP 교환 및 ICE 협상을 중개하는 시그널링 서버 구축.
     - **API 구축**: 테이블 설계 및 RESTful API 형식에 맞춘 CRUD 기능 구현.
 - **링크**: 
-  - [개요 및 문제해결](https://www.notion.so/0ad949a6825a449ea52ddf78af9b0d72](https://robust-shoulder-1c6.notion.site/dotori-b47604655bd74e388a0b33d72f1e6677))
+  - [개요 및 문제해결]([ https://www.notion.so/0ad949a6825a449ea52ddf78af9b0d72](https://robust-shoulder-1c6.notion.site/dotori-b47604655bd74e388a0b33d72f1e6677](https://robust-shoulder-1c6.notion.site/dotori-b47604655bd74e388a0b33d72f1e6677))
   - [시연 영상](https://www.youtube.com/watch?v=jVMS_riHU-0&t=2s)
   - [GitHub 백엔드 링크](https://github.com/Higangssh/acorn-final-be)
 
