@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Programmer&fontSize=90" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Welcome&fontSize=90" />
 
 ### Hi i wanna be good developer👋
 
