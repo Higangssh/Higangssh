@@ -46,12 +46,12 @@ Here are some ideas to get you started:
   - **AWS 인프라 통합 및 자동화**:
     - **AWS Elastic Beanstalk**를 기반으로 RDS(MySQL), EC2, S3, CloudWatch를 통합하여 **자동화된 CI/CD 파이프라인**을 구축.
     - GitHub Actions 및 AWS CodePipeline을 사용해 코드 변경 시 자동으로 테스트와 배포가 이루어지도록 구성.
-  - **NGINX 프록시 서버 커스터마이징**:
+  - [NGINX 프록시 서버 커스터마이징](https://velog.io/@son93/Cors%EC%99%80-Preflightfeat.Nginx%EC%97%90-%EA%B4%80%ED%95%98%EC%97%AC):
     - **NGINX 설정 파일을 커스터마이징**하여 보안 헤더를 추가하고, Cors(option) 문제 및 Custom Header 전송 문제를 전송 문제를 해결하여 **보안 규정을 준수**.
     - CloudWatch Logs와 대시보드를 활용하여 **NGINX 로그 및 애플리케이션 메트릭을 실시간 모니터링**.
   - **데이터베이스 성능 최적화**:
     - 10만건의 더미데이터를 기준으로 초기 단일 인덱스 설계로 인해 발생하던 쿼리 실행 시간 **1.5~2초** 문제를, **복합 인덱스 적용 및 쿼리 최적화**를 통해 **50~150ms로 단축**하여 약 **10~30배 성능 개선**을 달성.
-  - **SSE 기반 실시간 데이터 전송**:
+  - [SSE 기반 실시간 데이터 전송](https://velog.io/@son93/WebSocket-vs-SSE-%EC%96%B8%EC%A0%9C-%EC%96%B4%EB%96%BB%EA%B2%8C-%EC%82%AC%EC%9A%A9%ED%95%B4%EC%95%BC-%ED%95%A0%EA%B9%8C-feat.-Spring-Webflux):
     - 실시간 알림 처리 구현 시 **WebSocket과 SSE**를 비교하여 양방향 통신의 필요성이 없음을 판단하고 SSE(Server-Sent Events)를 채택.
     - 브라우저 종료 시에도 커넥션이 유지되는 문제를 발견하고, **30초 주기 헬스체크 쓰레드**를 구현하여 **비활성 커넥션을 자동으로 차단**하는 로직 개발.
   - **JWT 기반 인증 최적화**:
