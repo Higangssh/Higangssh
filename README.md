@@ -49,7 +49,7 @@ Here are some ideas to get you started:
   - [NGINX 프록시 서버 커스터마이징](https://velog.io/@son93/Cors%EC%99%80-Preflightfeat.Nginx%EC%97%90-%EA%B4%80%ED%95%98%EC%97%AC):
     - **NGINX 설정 파일을 커스터마이징**하여 보안 헤더를 추가하고, Cors(option) 문제 및 Custom Header 전송 문제를 전송 문제를 해결하여 **보안 규정을 준수**.
     - CloudWatch Logs와 대시보드를 활용하여 **NGINX 로그 및 애플리케이션 메트릭을 실시간 모니터링**.
-  - **데이터베이스 성능 최적화**:
+  - [데이터베이스 성능 최적화](https://velog.io/@son93/%EB%8B%A8%EC%9D%BC-%EC%9D%B8%EB%8D%B1%EC%8A%A4-vs-%EB%B3%B5%ED%95%A9-%EC%9D%B8%EB%8D%B1%EC%8A%A4-%EC%84%B1%EB%8A%A5-%EB%B9%84%EA%B5%90%EC%99%80-%EC%B5%9C%EC%A0%81%ED%99%94-%EC%82%AC%EB%A1%80):
     - 10만건의 더미데이터를 기준으로 초기 단일 인덱스 설계로 인해 발생하던 쿼리 실행 시간 **1.5~2초** 문제를, **복합 인덱스 적용 및 쿼리 최적화**를 통해 **50~150ms로 단축**하여 약 **10~30배 성능 개선**을 달성.
   - [SSE 기반 실시간 데이터 전송](https://velog.io/@son93/WebSocket-vs-SSE-%EC%96%B8%EC%A0%9C-%EC%96%B4%EB%96%BB%EA%B2%8C-%EC%82%AC%EC%9A%A9%ED%95%B4%EC%95%BC-%ED%95%A0%EA%B9%8C-feat.-Spring-Webflux):
     - 실시간 알림 처리 구현 시 **WebSocket과 SSE**를 비교하여 양방향 통신의 필요성이 없음을 판단하고 SSE(Server-Sent Events)를 채택.
