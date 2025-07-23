@@ -40,11 +40,20 @@ Here are some ideas to get you started:
 
 ### 🌟 **Open Source Contributions**
 
-**[SuperClaude Framework](https://github.com/SuperClaude-Org/SuperClaude_Framework)** - Advanced AI Framework
+**[Korean Code Translator](https://github.com/Higangssh/korean-translator)** - VS Code & Cursor Extension (Owner)
+
+- **[VS Code Marketplace](https://marketplace.visualstudio.com/items?itemName=sonsanghee-dev.korean-code-translator)**: Professional IDE extension for real-time English-to-Korean translation
+- **Tech Stack**: TypeScript, VS Code Extension API, OpenAI GPT Integration
+- **Achievement**: 100+ downloads with 3-tier translation architecture (Local Dictionary → GPT → Online APIs)
+- **Impact**: Enhanced Korean developer productivity with intelligent hover translation and keyboard shortcuts
+- **Status**: ✅ Active Development
+
+**[SuperClaude Framework](https://github.com/SuperClaude-Org/SuperClaude_Framework)** - Advanced AI Framework (10k+ ⭐)
 
 - **[Pull Request #214](https://github.com/SuperClaude-Org/SuperClaude_Framework/pull/214)**: `refactor: remove duplicate import sys in main.py`
+- **Tech Stack**: Python, AI/ML Framework
 - **Content**: Identified and resolved redundant module imports in core application entry point
-- **Impact**: Enhanced codebase maintainability and reduced potential import conflicts
+- **Impact**: Enhanced codebase maintainability and reduced potential import conflicts for high-traffic repository
 - **Status**: ✅ Merged
 
 ---
