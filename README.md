@@ -37,11 +37,11 @@ Here are some ideas to get you started:
 
 ### 🌟 **Open Source Contributions**
 
-**[Korean Code Translator](https://github.com/Higangssh/korean-translator)** - VS Code & Cursor Extension (Owner)
+**[Korean Code Translator](https://github.com/Higangssh/korean-translator)** - VS Code & Cursor Extension (Owner) (200+ downloads)
 
 - **[VS Code Marketplace](https://marketplace.visualstudio.com/items?itemName=sonsanghee-dev.korean-code-translator)**: Professional IDE extension for real-time English-to-Korean translation
 - **Tech Stack**: TypeScript, VS Code Extension API, OpenAI GPT Integration
-- **Achievement**: 100+ downloads with 3-tier translation architecture (Local Dictionary → GPT → Online APIs)
+- **Achievement**: 200+ downloads with 3-tier translation architecture (Local Dictionary → GPT → Online APIs)
 - **Impact**: Enhanced Korean developer productivity with intelligent hover translation and keyboard shortcuts
 - **Status**: ✅ Active Development
 
