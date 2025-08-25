@@ -45,7 +45,7 @@ Here are some ideas to get you started:
 - **Impact**: Enhanced Korean developer productivity with intelligent hover translation and keyboard shortcuts
 - **Status**: ✅ Active Development
 
-**[SuperClaude Framework](https://github.com/SuperClaude-Org/SuperClaude_Framework)** - Advanced AI Framework (10k+ ⭐)
+**[SuperClaude Framework](https://github.com/SuperClaude-Org/SuperClaude_Framework)** - Advanced AI Framework (13k+ ⭐)
 
 - **[Pull Request #214](https://github.com/SuperClaude-Org/SuperClaude_Framework/pull/214)**: `refactor: remove duplicate import sys in main.py`
 - **Tech Stack**: Python, AI/ML Framework
