@@ -53,6 +53,15 @@ Here are some ideas to get you started:
 - **Impact**: Enhanced codebase maintainability and reduced potential import conflicts for high-traffic repository
 - **Status**: ✅ Merged
 
+**[Claude Code Templates](https://github.com/davila7/claude-code-templates)** - CLI Tool for AI Development (9k+ ⭐)
+- **[Pull Request #107](https://github.com/davila7/claude-code-templates/pull/107)**: `fix: Add UTF-8 encoding for cross-platform file reading in context-monitor`
+- **Tech Stack**: Python, Node.js, CLI Development
+- **Problem Solved**: Fixed encoding mismatch causing transcript read failures on Windows (defaulting to cp949 instead of UTF-8)
+- **Solution**: Added explicit UTF-8 encoding to file operations, ensuring cross-platform compatibility across Windows, macOS, and Linux
+- **Impact**: Enhanced context monitor reliability for Windows users, enabling proper statusline display instead of "???" errors
+- **Testing**: Verified on Windows 11 with Python 3.13 - statusline now correctly displays context information
+- **Status**: ✅ Merged & Deployed
+
 ---
 
 ---
