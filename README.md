@@ -24,17 +24,6 @@ Here are some ideas to get you started:
 
 ---
 
-### 💻 **Language**
-<div >
-	<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white" />
-	<img src="https://img.shields.io/badge/Kotlin-0095D5?style=flat&logo=Kotlin&logoColor=white" />
-	<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white" />
-	<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white" />
-	<img src="https://img.shields.io/badge/Dart-0175C2?style=flat&logo=Dart&logoColor=white" />
-</div>
-
----
-
 ### 🌟 **Open Source Contributions**
 
 **[Korean Code Translator](https://github.com/Higangssh/korean-translator)** - VS Code & Cursor Extension (Owner) (200+ downloads)
