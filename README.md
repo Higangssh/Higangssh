@@ -60,6 +60,13 @@ Here are some ideas to get you started:
 - **Status**: ✅ Merged
 ---
 
+### 🔒 **Security Contributions**
+
+**[Hono.js](https://github.com/honojs/hono)** - Ultrafast Web Framework (27k+ ⭐)
+- **[Security Advisory GHSA-q7jf-gf43-6x6p](https://github.com/honojs/hono/security/advisories/GHSA-q7jf-gf43-6x6p)** 
+- **Tech Stack**: TypeScript, Web Security, HTTP Headers
+- **Content**: Discovered CORS middleware was incorrectly reading `Vary` header from request instead of response, enabling cache poisoning attacks. Reported the vulnerability and submitted fix PR to read from response headers.
+
 ---
 
 ### 💼 **Side Projects**
