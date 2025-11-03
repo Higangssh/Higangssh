@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 - **Impact**: Enhanced Korean developer productivity with intelligent hover translation and keyboard shortcuts
 - **Status**: ✅ Active Development
 
-**[SuperClaude Framework](https://github.com/SuperClaude-Org/SuperClaude_Framework)** - Advanced AI Framework (16k+ ⭐)
+**[SuperClaude Framework](https://github.com/SuperClaude-Org/SuperClaude_Framework)** - Advanced AI Framework (17k+ ⭐)
 
 - **[Pull Request #214](https://github.com/SuperClaude-Org/SuperClaude_Framework/pull/214)**: `refactor: remove duplicate import sys in main.py`
 - **Tech Stack**: Python, AI/ML Framework
@@ -43,7 +43,7 @@ Here are some ideas to get you started:
 - **Impact**: Enhanced codebase maintainability and reduced potential import conflicts for high-traffic repository
 - **Status**: ✅ Merged
 
-**[Claude Code Templates](https://github.com/davila7/claude-code-templates)** - CLI Tool for AI Development (9k+ ⭐)
+**[Claude Code Templates](https://github.com/davila7/claude-code-templates)** - CLI Tool for AI Development (10k+ ⭐)
 - **[Pull Request #107](https://github.com/davila7/claude-code-templates/pull/107)**: `fix: Add UTF-8 encoding for cross-platform file reading in context-monitor`
 - **Tech Stack**: Python, Node.js, CLI Development
 - **Problem Solved**: Fixed encoding mismatch causing transcript read failures on Windows (defaulting to cp949 instead of UTF-8)
@@ -51,7 +51,7 @@ Here are some ideas to get you started:
 - **Impact**: Enhanced context monitor reliability for Windows users, enabling proper statusline display instead of "???" errors
 - **Status**: ✅ Merged 
 
-**[TOON](https://github.com/johannschopplich/toon)** - Token-Optimized Object Notation (7k+ ⭐)
+**[TOON](https://github.com/johannschopplich/toon)** - Token-Optimized Object Notation (8k+ ⭐)
 - **[Pull Request #51](https://github.com/johannschopplich/toon/pull/51)**: `feat(cli): add --stats flag to show token savings`
 - **Tech Stack**: TypeScript, Node.js, CLI Development
 - **Problem Solved**: Users unable to measure actual token savings when converting JSON to TOON format
