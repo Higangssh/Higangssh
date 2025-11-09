@@ -34,6 +34,14 @@ Here are some ideas to get you started:
 - **Impact**: Enhanced Korean developer productivity with intelligent hover translation and keyboard shortcuts
 - **Status**: ✅ Active Development
 
+**[Model Context Protocol Servers](https://github.com/modelcontextprotocol/servers)** - Official MCP Server Implementations (72k+ ⭐)
+- **[Pull Request #2932](https://github.com/modelcontextprotocol/servers/pull/2932)**: `fix(filesystem): exclude test files from build`
+- **Tech Stack**: TypeScript, Docker, Node.js Build Systems
+- **Problem Solved**: Test files were being compiled into `dist/` during Docker builds, causing TypeScript compilation errors (`error TS2304: Cannot find name 'afterEach'`) when vitest globals were referenced
+- **Solution**: Added `exclude` pattern to `tsconfig.json` to skip test directories during build process
+- **Impact**: Fixed build failures in production Docker environments and prevented test-only dependencies from leaking into production bundles
+- **Status**: ✅ Merged
+
 **[SuperClaude Framework](https://github.com/SuperClaude-Org/SuperClaude_Framework)** - Advanced AI Framework (17k+ ⭐)
 
 - **[Pull Request #214](https://github.com/SuperClaude-Org/SuperClaude_Framework/pull/214)**: `refactor: remove duplicate import sys in main.py`
@@ -51,7 +59,7 @@ Here are some ideas to get you started:
 - **Impact**: Enhanced context monitor reliability for Windows users, enabling proper statusline display instead of "???" errors
 - **Status**: ✅ Merged 
 
-**[TOON](https://github.com/johannschopplich/toon)** - Token-Optimized Object Notation (8k+ ⭐)
+**[TOON](https://github.com/johannschopplich/toon)** - Token-Optimized Object Notation (11k+ ⭐)
 - **[Pull Request #51](https://github.com/johannschopplich/toon/pull/51)**: `feat(cli): add --stats flag to show token savings`
 - **Tech Stack**: TypeScript, Node.js, CLI Development
 - **Problem Solved**: Users unable to measure actual token savings when converting JSON to TOON format
