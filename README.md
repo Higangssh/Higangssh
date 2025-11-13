@@ -39,11 +39,11 @@ Here are some ideas to get you started:
 - **[PR #214](https://github.com/SuperClaude-Org/SuperClaude_Framework/pull/214)**: Removed duplicate import to improve code maintainability
 - Status: ✅ Merged
 
-**[Claude Code Templates](https://github.com/davila7/claude-code-templates)** (10k+ ⭐)
+**[Claude Code Templates](https://github.com/davila7/claude-code-templates)** (11k+ ⭐)
 - **[PR #107](https://github.com/davila7/claude-code-templates/pull/107)**: Fixed Windows encoding issues for cross-platform compatibility
 - Status: ✅ Merged
 
-**[TOON](https://github.com/johannschopplich/toon)** (11k+ ⭐)
+**[TOON](https://github.com/johannschopplich/toon)** (13k+ ⭐)
 - **[PR #51](https://github.com/johannschopplich/toon/pull/51)**: Added `--stats` flag to visualize token savings (58.1% reduction)
 - Status: ✅ Merged
 
