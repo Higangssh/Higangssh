@@ -41,6 +41,7 @@ Here are some ideas to get you started:
 
 **[Claude Code Templates](https://github.com/davila7/claude-code-templates)** (11k+ ⭐)
 - **[PR #107](https://github.com/davila7/claude-code-templates/pull/107)**: Fixed Windows encoding issues for cross-platform compatibility
+- **[PR #118](https://github.com/davila7/claude-code-templates/pull/118)**: Fixed Windows Python command compatibility for statusline and hooks by implementing platform-aware detection (`py`/`python`/`python3`)
 - Status: ✅ Merged
 
 **[TOON](https://github.com/johannschopplich/toon)** (13k+ ⭐)
