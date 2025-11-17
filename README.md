@@ -31,6 +31,10 @@ Here are some ideas to get you started:
 - 3-tier translation architecture (Local Dictionary → GPT → Online APIs)
 - Status: ✅ Active Development
 
+**[GitHub MCP Server](https://github.com/github/github-mcp-server)** (24k+ ⭐)
+- **[PR #1305](https://github.com/github/github-mcp-server/pull/1305)**: Added state metadata fields to `get_discussion` tool for enhanced discussion status tracking
+- Status: ✅ Merged
+
 **[Model Context Protocol Servers](https://github.com/modelcontextprotocol/servers)** (72k+ ⭐)
 - **[PR #2932](https://github.com/modelcontextprotocol/servers/pull/2932)**: Fixed Docker build failures by excluding test files from TypeScript compilation
 - Status: ✅ Merged
