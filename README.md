@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 ### 🌟 **Open Source Contributions**
 
-**[Korean Code Translator](https://github.com/Higangssh/korean-translator)** - VS Code & Cursor Extension (200+ downloads)
+**[Korean Code Translator](https://github.com/Higangssh/korean-translator)** - VS Code & Cursor Extension (300+ downloads)
 - Real-time English-to-Korean translation for developers
 - 3-tier translation architecture (Local Dictionary → GPT → Online APIs)
 - Status: ✅ Active Development
@@ -48,7 +48,7 @@ Here are some ideas to get you started:
 - **[PR #118](https://github.com/davila7/claude-code-templates/pull/118)**: Fixed Windows Python command compatibility for statusline and hooks by implementing platform-aware detection (`py`/`python`/`python3`)
 - Status: ✅ Merged
 
-**[TOON](https://github.com/johannschopplich/toon)** (13k+ ⭐)
+**[TOON](https://github.com/johannschopplich/toon)** (19k+ ⭐)
 - **[PR #51](https://github.com/johannschopplich/toon/pull/51)**: Added `--stats` flag to visualize token savings (58.1% reduction)
 - Status: ✅ Merged
 
