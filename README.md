@@ -31,6 +31,10 @@ Here are some ideas to get you started:
 - 3-tier translation architecture (Local Dictionary → GPT → Online APIs)
 - Status: ✅ Active Development
 
+**[typescript-eslint](https://github.com/typescript-eslint/typescript-eslint)** (24k+ ⭐)
+- **[PR #11764](https://github.com/typescript-eslint/typescript-eslint/pull/11764)**: Fixed `restrict-template-expressions` rule to check base types in allow list, enabling Liskov Substitution Principle compliance for derived classes
+- Status: ✅ Merged
+
 **[GitHub MCP Server](https://github.com/github/github-mcp-server)** (24k+ ⭐)
 - **[PR #1305](https://github.com/github/github-mcp-server/pull/1305)**: Added state metadata fields to `get_discussion` tool for enhanced discussion status tracking
 - Status: ✅ Merged
@@ -39,7 +43,7 @@ Here are some ideas to get you started:
 - **[PR #2932](https://github.com/modelcontextprotocol/servers/pull/2932)**: Fixed Docker build failures by excluding test files from TypeScript compilation
 - Status: ✅ Merged
 
-**[SuperClaude Framework](https://github.com/SuperClaude-Org/SuperClaude_Framework)** (17k+ ⭐)
+**[SuperClaude Framework](https://github.com/SuperClaude-Org/SuperClaude_Framework)** (18k+ ⭐)
 - **[PR #214](https://github.com/SuperClaude-Org/SuperClaude_Framework/pull/214)**: Removed duplicate import to improve code maintainability
 - Status: ✅ Merged
 
