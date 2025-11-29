@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 - 3-tier translation architecture (Local Dictionary → GPT → Online APIs)
 - Status: ✅ Active Development
 
-**[typescript-eslint](https://github.com/typescript-eslint/typescript-eslint)** (24k+ ⭐)
+**[Typescript-Eslint](https://github.com/typescript-eslint/typescript-eslint)** (24k+ ⭐)
 - **[PR #11764](https://github.com/typescript-eslint/typescript-eslint/pull/11764)**: Fixed `restrict-template-expressions` rule to check base types in allow list, enabling Liskov Substitution Principle compliance for derived classes
 - Status: ✅ Merged
 
