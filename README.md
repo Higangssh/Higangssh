@@ -26,10 +26,15 @@ Here are some ideas to get you started:
 
 ### 🌟 **Open Source Contributions**
 
-**[Korean Code Translator](https://github.com/Higangssh/korean-translator)** - VS Code & Cursor Extension (300+ downloads)
+
+#### 🛠️ Maintainer
+**[Korean Code Translator](https://github.com/Higangssh/korean-translator)** - VS Code & Cursor Extension (400+ downloads)
 - Real-time English-to-Korean translation for developers
 - 3-tier translation architecture (Local Dictionary → GPT → Online APIs)
 - Status: ✅ Active Development
+
+
+#### 🤝 Contributions
 
 **[TypeScript-Eslint](https://github.com/typescript-eslint/typescript-eslint)** (16k+ ⭐)
 - **[PR #11764](https://github.com/typescript-eslint/typescript-eslint/pull/11764)**: Fixed `restrict-template-expressions` rule to check base types in allow list, enabling Liskov Substitution Principle compliance for derived classes
@@ -56,6 +61,13 @@ Here are some ideas to get you started:
 - **[PR #51](https://github.com/johannschopplich/toon/pull/51)**: Added `--stats` flag to visualize token savings (58.1% reduction)
 - Status: ✅ Merged
 
+**[lakeFS](https://github.com/treeverse/lakeFS)** (5.1k+ ⭐)
+- **[PR #9874](https://github.com/treeverse/lakeFS/pull/9874)**: Added `--all` and `--repo` flags to `lakefs kv dump` command for flexible partition dumping
+  - `--all`: Dumps all known partitions from SectionMapping instead of predefined sections only
+  - `--repo <name>`: Dumps specific repository's partition using graveler
+  - Implemented `GetAllKnownPartitions()` and `CreateDumpWithPartitions()` helper functions
+  - Added unit tests in `pkg/kv/dump_test.go`
+- Status: ✅ Merged
 ---
 
 ### 🔒 **Security Contributions**
