@@ -44,7 +44,7 @@ Here are some ideas to get you started:
 - **[PR #1305](https://github.com/github/github-mcp-server/pull/1305)**: Added state metadata fields to `get_discussion` tool for enhanced discussion status tracking
 - Status: ✅ Merged
 
-**[Model Context Protocol Servers](https://github.com/modelcontextprotocol/servers)** (72k+ ⭐)
+**[Model Context Protocol Servers](https://github.com/modelcontextprotocol/servers)** (78k+ ⭐)
 - **[PR #2932](https://github.com/modelcontextprotocol/servers/pull/2932)**: Fixed Docker build failures by excluding test files from TypeScript compilation
 - Status: ✅ Merged
 
@@ -52,12 +52,12 @@ Here are some ideas to get you started:
 - **[PR #214](https://github.com/SuperClaude-Org/SuperClaude_Framework/pull/214)**: Removed duplicate import to improve code maintainability
 - Status: ✅ Merged
 
-**[Claude Code Templates](https://github.com/davila7/claude-code-templates)** (12k+ ⭐)
+**[Claude Code Templates](https://github.com/davila7/claude-code-templates)** (18k+ ⭐)
 - **[PR #107](https://github.com/davila7/claude-code-templates/pull/107)**: Fixed Windows encoding issues for cross-platform compatibility
 - **[PR #118](https://github.com/davila7/claude-code-templates/pull/118)**: Fixed Windows Python command compatibility for statusline and hooks by implementing platform-aware detection (`py`/`python`/`python3`)
 - Status: ✅ Merged
 
-**[TOON](https://github.com/johannschopplich/toon)** (20k+ ⭐)
+**[TOON](https://github.com/johannschopplich/toon)** (22k+ ⭐)
 - **[PR #51](https://github.com/johannschopplich/toon/pull/51)**: Added `--stats` flag to visualize token savings (58.1% reduction)
 - Status: ✅ Merged
 
