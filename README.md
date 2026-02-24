@@ -39,12 +39,3 @@
 **[Hono.js](https://github.com/honojs/hono)** (27k+ ⭐) — Discovered CORS cache poisoning vulnerability
 → [GHSA-q7jf-gf43-6x6p](https://github.com/honojs/hono/security/advisories/GHSA-q7jf-gf43-6x6p)
 
----
-
-### 🛠️ **Tech Stack**
-
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
