@@ -1,88 +1,54 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Welcome&fontSize=90" />
+# Sanghee Son
 
-### Hi i wanna be good engineer👋
+**IoT Backend Developer · Open Source Contributor**
 
-<!--
-**Higangssh/Higangssh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Building reliable systems with Go, TypeScript, and Python.
 
-Here are some ideas to get you started:
+📧 sonsanghee3@gmail.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-### 📫 **Job**
-👨‍💻 BacekEnd Developer
--->
 ---
-### 📞 **Connect**
-📧 sgh115@naver.com , sonsanghee3@gmail.com
+
+### 🚀 **Projects**
+
+**[homebutler](https://github.com/Higangssh/homebutler)** — Homelab management CLI + MCP server
+[![GitHub stars](https://img.shields.io/github/stars/Higangssh/homebutler)](https://github.com/Higangssh/homebutler)
+[![Release](https://img.shields.io/github/v/release/Higangssh/homebutler)](https://github.com/Higangssh/homebutler/releases)
+- Single binary, multi-server SSH, Docker management, Wake-on-LAN, network scanning
+- Built-in MCP server for Claude Desktop, ChatGPT, Cursor
+- Go · MIT License
+
+**[Korean Code Translator](https://github.com/Higangssh/korean-translator)** — VS Code & Cursor Extension (400+ downloads)
+- Real-time English-to-Korean translation for developers
+
+**[gongdata](https://github.com/Higangssh/gongdata)** — Korea Public Data API SDK
 
 ---
 
 ### 🌟 **Open Source Contributions**
 
+| Project | PR | Description |
+|---|---|---|
+| **[GitHub MCP Server](https://github.com/github/github-mcp-server)** (25k+ ⭐) | [#1305](https://github.com/github/github-mcp-server/pull/1305) ✅ | Added state metadata to `get_discussion` tool |
+| **[MCP Servers](https://github.com/modelcontextprotocol/servers)** (78k+ ⭐) | [#2932](https://github.com/modelcontextprotocol/servers/pull/2932) ✅ | Fixed Docker build failures |
+| **[TypeScript-Eslint](https://github.com/typescript-eslint/typescript-eslint)** (16k+ ⭐) | [#11764](https://github.com/typescript-eslint/typescript-eslint/pull/11764) ✅ | Fixed `restrict-template-expressions` for LSP compliance |
+| **[TOON](https://github.com/johannschopplich/toon)** (22k+ ⭐) | [#51](https://github.com/johannschopplich/toon/pull/51) ✅ | Added `--stats` flag for token savings visualization |
+| **[SuperClaude](https://github.com/SuperClaude-Org/SuperClaude_Framework)** (19k+ ⭐) | [#214](https://github.com/SuperClaude-Org/SuperClaude_Framework/pull/214) ✅ | Code cleanup |
+| **[Claude Code Templates](https://github.com/davila7/claude-code-templates)** (18k+ ⭐) | [#107](https://github.com/davila7/claude-code-templates/pull/107), [#118](https://github.com/davila7/claude-code-templates/pull/118) ✅ | Fixed Windows cross-platform compatibility |
+| **[lakeFS](https://github.com/treeverse/lakeFS)** (5.1k+ ⭐) | [#9874](https://github.com/treeverse/lakeFS/pull/9874) ✅ | Added `--all` and `--repo` flags to `kv dump` |
 
-#### 🛠️ Maintainer
-**[Korean Code Translator](https://github.com/Higangssh/korean-translator)** - VS Code & Cursor Extension (400+ downloads)
-- Real-time English-to-Korean translation for developers
-- 3-tier translation architecture (Local Dictionary → GPT → Online APIs)
-- Status: ✅ Active Development
-
-
-#### 🤝 Contributions
-
-**[TypeScript-Eslint](https://github.com/typescript-eslint/typescript-eslint)** (16k+ ⭐)
-- **[PR #11764](https://github.com/typescript-eslint/typescript-eslint/pull/11764)**: Fixed `restrict-template-expressions` rule to check base types in allow list, enabling Liskov Substitution Principle compliance for derived classes
-- Status: ✅ Merged
-
-**[GitHub MCP Server](https://github.com/github/github-mcp-server)** (25k+ ⭐)
-- **[PR #1305](https://github.com/github/github-mcp-server/pull/1305)**: Added state metadata fields to `get_discussion` tool for enhanced discussion status tracking
-- Status: ✅ Merged
-
-**[Model Context Protocol Servers](https://github.com/modelcontextprotocol/servers)** (78k+ ⭐)
-- **[PR #2932](https://github.com/modelcontextprotocol/servers/pull/2932)**: Fixed Docker build failures by excluding test files from TypeScript compilation
-- Status: ✅ Merged
-
-**[SuperClaude Framework](https://github.com/SuperClaude-Org/SuperClaude_Framework)** (19k+ ⭐)
-- **[PR #214](https://github.com/SuperClaude-Org/SuperClaude_Framework/pull/214)**: Removed duplicate import to improve code maintainability
-- Status: ✅ Merged
-
-**[Claude Code Templates](https://github.com/davila7/claude-code-templates)** (18k+ ⭐)
-- **[PR #107](https://github.com/davila7/claude-code-templates/pull/107)**: Fixed Windows encoding issues for cross-platform compatibility
-- **[PR #118](https://github.com/davila7/claude-code-templates/pull/118)**: Fixed Windows Python command compatibility for statusline and hooks by implementing platform-aware detection (`py`/`python`/`python3`)
-- Status: ✅ Merged
-
-**[TOON](https://github.com/johannschopplich/toon)** (22k+ ⭐)
-- **[PR #51](https://github.com/johannschopplich/toon/pull/51)**: Added `--stats` flag to visualize token savings (58.1% reduction)
-- Status: ✅ Merged
-
-**[lakeFS](https://github.com/treeverse/lakeFS)** (5.1k+ ⭐)
-- **[PR #9874](https://github.com/treeverse/lakeFS/pull/9874)**: Added `--all` and `--repo` flags to `lakefs kv dump` command for flexible partition dumping
-- Status: ✅ Merged
 ---
 
-### 🔒 **Security Contributions**
+### 🔒 **Security**
 
-**[Hono.js](https://github.com/honojs/hono)** (27k+ ⭐)
-- **[Security Advisory GHSA-q7jf-gf43-6x6p](https://github.com/honojs/hono/security/advisories/GHSA-q7jf-gf43-6x6p)**: Discovered and reported CORS cache poisoning vulnerability
+**[Hono.js](https://github.com/honojs/hono)** (27k+ ⭐) — Discovered CORS cache poisoning vulnerability
+→ [GHSA-q7jf-gf43-6x6p](https://github.com/honojs/hono/security/advisories/GHSA-q7jf-gf43-6x6p)
+
 ---
 
-### 💼 **Side Projects**
-  [Collection of Side Projects](https://github.com/Higangssh/Side-Project)
+### 🛠️ **Tech Stack**
 
-  
----
-
-<div>
-  <p>Thank you for visiting my GitHub profile! 🙏</p>
-  <p>
-    <a href="https://github.com/Higangssh">
-      <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" />
-    </a>
-  </p>
-</div>
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
