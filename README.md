@@ -63,10 +63,6 @@ Here are some ideas to get you started:
 
 **[lakeFS](https://github.com/treeverse/lakeFS)** (5.1k+ ⭐)
 - **[PR #9874](https://github.com/treeverse/lakeFS/pull/9874)**: Added `--all` and `--repo` flags to `lakefs kv dump` command for flexible partition dumping
-  - `--all`: Dumps all known partitions from SectionMapping instead of predefined sections only
-  - `--repo <name>`: Dumps specific repository's partition using graveler
-  - Implemented `GetAllKnownPartitions()` and `CreateDumpWithPartitions()` helper functions
-  - Added unit tests in `pkg/kv/dump_test.go`
 - Status: ✅ Merged
 ---
 
