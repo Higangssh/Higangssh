@@ -1,14 +1,10 @@
-# Sanghee Son
-
 **IoT Backend Developer · Open Source Contributor**
-
-Building reliable systems with Go, TypeScript, and Python.
 
 📧 sonsanghee3@gmail.com
 
 ---
 
-### 🚀 **Projects**
+### 🛠️ **Maintainer**
 
 **[homebutler](https://github.com/Higangssh/homebutler)** — Homelab management CLI + MCP server
 [![GitHub stars](https://img.shields.io/github/stars/Higangssh/homebutler)](https://github.com/Higangssh/homebutler)
