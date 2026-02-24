@@ -24,18 +24,14 @@
 
 | Project | PR | Description |
 |---|---|---|
-| **[GitHub MCP Server](https://github.com/github/github-mcp-server)** (25k+ ⭐) | [#1305](https://github.com/github/github-mcp-server/pull/1305) ✅ | Added state metadata to `get_discussion` tool |
-| **[MCP Servers](https://github.com/modelcontextprotocol/servers)** (78k+ ⭐) | [#2932](https://github.com/modelcontextprotocol/servers/pull/2932) ✅ | Fixed Docker build failures |
+| **[MCP Servers](https://github.com/modelcontextprotocol/servers)** (79k+ ⭐) | [#2932](https://github.com/modelcontextprotocol/servers/pull/2932) ✅ | Fixed Docker build failures |
+| **[Hono.js](https://github.com/honojs/hono)** (29k+ ⭐) | [Security Advisory](https://github.com/honojs/hono/security/advisories/GHSA-q7jf-gf43-6x6p) 🔒 | Discovered CORS cache poisoning vulnerability |
+| **[GitHub MCP Server](https://github.com/github/github-mcp-server)** (27k+ ⭐) | [#1305](https://github.com/github/github-mcp-server/pull/1305) ✅ | Added state metadata to `get_discussion` tool |
+| **[TOON](https://github.com/johannschopplich/toon)** (23k+ ⭐) | [#51](https://github.com/johannschopplich/toon/pull/51) ✅ | Added `--stats` flag for token savings visualization |
+| **[Claude Code Templates](https://github.com/davila7/claude-code-templates)** (21k+ ⭐) | [#107](https://github.com/davila7/claude-code-templates/pull/107), [#118](https://github.com/davila7/claude-code-templates/pull/118) ✅ | Fixed Windows cross-platform compatibility |
+| **[SuperClaude](https://github.com/SuperClaude-Org/SuperClaude_Framework)** (21k+ ⭐) | [#214](https://github.com/SuperClaude-Org/SuperClaude_Framework/pull/214) ✅ | Code cleanup |
 | **[TypeScript-Eslint](https://github.com/typescript-eslint/typescript-eslint)** (16k+ ⭐) | [#11764](https://github.com/typescript-eslint/typescript-eslint/pull/11764) ✅ | Fixed `restrict-template-expressions` for LSP compliance |
-| **[TOON](https://github.com/johannschopplich/toon)** (22k+ ⭐) | [#51](https://github.com/johannschopplich/toon/pull/51) ✅ | Added `--stats` flag for token savings visualization |
-| **[SuperClaude](https://github.com/SuperClaude-Org/SuperClaude_Framework)** (19k+ ⭐) | [#214](https://github.com/SuperClaude-Org/SuperClaude_Framework/pull/214) ✅ | Code cleanup |
-| **[Claude Code Templates](https://github.com/davila7/claude-code-templates)** (18k+ ⭐) | [#107](https://github.com/davila7/claude-code-templates/pull/107), [#118](https://github.com/davila7/claude-code-templates/pull/118) ✅ | Fixed Windows cross-platform compatibility |
 | **[lakeFS](https://github.com/treeverse/lakeFS)** (5.1k+ ⭐) | [#9874](https://github.com/treeverse/lakeFS/pull/9874) ✅ | Added `--all` and `--repo` flags to `kv dump` |
 
----
 
-### 🔒 **Security**
-
-**[Hono.js](https://github.com/honojs/hono)** (27k+ ⭐) — Discovered CORS cache poisoning vulnerability
-→ [GHSA-q7jf-gf43-6x6p](https://github.com/honojs/hono/security/advisories/GHSA-q7jf-gf43-6x6p)
 
