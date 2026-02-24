@@ -25,7 +25,7 @@
 | Project | PR | Description |
 |---|---|---|
 | **[MCP Servers](https://github.com/modelcontextprotocol/servers)** (79k+ ⭐) | [#2932](https://github.com/modelcontextprotocol/servers/pull/2932) ✅ | Fixed Docker build failures |
-| **[Hono.js](https://github.com/honojs/hono)** (29k+ ⭐) | [Security Advisory](https://github.com/honojs/hono/security/advisories/GHSA-q7jf-gf43-6x6p) 🔒 | Discovered CORS cache poisoning vulnerability |
+| **[Hono.js](https://github.com/honojs/hono)** (29k+ ⭐) | [#4479](https://github.com/honojs/hono/pull/4479), [#4471](https://github.com/honojs/hono/issues/4471) 🔒 | Identified CORS cache poisoning risk and submitted fix |
 | **[GitHub MCP Server](https://github.com/github/github-mcp-server)** (27k+ ⭐) | [#1305](https://github.com/github/github-mcp-server/pull/1305) ✅ | Added state metadata to `get_discussion` tool |
 | **[TOON](https://github.com/johannschopplich/toon)** (23k+ ⭐) | [#51](https://github.com/johannschopplich/toon/pull/51) ✅ | Added `--stats` flag for token savings visualization |
 | **[Claude Code Templates](https://github.com/davila7/claude-code-templates)** (21k+ ⭐) | [#107](https://github.com/davila7/claude-code-templates/pull/107), [#118](https://github.com/davila7/claude-code-templates/pull/118) ✅ | Fixed Windows cross-platform compatibility |
