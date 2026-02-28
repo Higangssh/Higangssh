@@ -13,6 +13,12 @@
 - Built-in MCP server for Claude Desktop, ChatGPT, Cursor
 - Go · MIT License
 
+**[gitcredits](https://github.com/Higangssh/gitcredits)** — Movie-style end credits for any git repo
+[![GitHub stars](https://img.shields.io/github/stars/Higangssh/gitcredits)](https://github.com/Higangssh/gitcredits)
+- Roll cinematic end credits in your terminal from git log + GitHub metadata
+- Built with Bubble Tea + Lip Gloss
+- Go · MIT License
+
 **[Korean Code Translator](https://github.com/Higangssh/korean-translator)** — VS Code & Cursor Extension (400+ downloads)
 - Real-time English-to-Korean translation for developers
 
