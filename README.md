@@ -19,7 +19,7 @@
 - Built with Bubble Tea + Lip Gloss
 - Go · MIT License
 
-**[Korean Code Translator](https://github.com/Higangssh/korean-translator)** — VS Code & Cursor Extension (400+ downloads)
+**[Korean Code Translator](https://github.com/Higangssh/korean-translator)** — VS Code & Cursor Extension (500+ downloads)
 - Real-time English-to-Korean translation for developers
 
 **[gongdata](https://github.com/Higangssh/gongdata)** — Korea Public Data API SDK
