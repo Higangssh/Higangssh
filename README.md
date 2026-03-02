@@ -1,3 +1,5 @@
+![Visitors](https://komarev.com/ghpvc/?username=Higangssh&color=brightgreen)
+
 **IoT Backend Developer · Open Source Contributor**
 
 📧 sonsanghee3@gmail.com
@@ -38,6 +40,3 @@
 | **[SuperClaude](https://github.com/SuperClaude-Org/SuperClaude_Framework)** (21k+ ⭐) | [#214](https://github.com/SuperClaude-Org/SuperClaude_Framework/pull/214) ✅ | Code cleanup |
 | **[TypeScript-Eslint](https://github.com/typescript-eslint/typescript-eslint)** (16k+ ⭐) | [#11764](https://github.com/typescript-eslint/typescript-eslint/pull/11764) ✅ | Fixed `restrict-template-expressions` for LSP compliance |
 | **[lakeFS](https://github.com/treeverse/lakeFS)** (5.1k+ ⭐) | [#9874](https://github.com/treeverse/lakeFS/pull/9874) ✅ | Added `--all` and `--repo` flags to `kv dump` |
-
-
-
