@@ -1,5 +1,3 @@
-![Visitors](https://komarev.com/ghpvc/?username=Higangssh&color=brightgreen)
-
 **IoT Backend Developer · Open Source Contributor**
 
 📧 sonsanghee3@gmail.com
