@@ -22,6 +22,16 @@
 **[Korean Code Translator](https://github.com/Higangssh/korean-translator)** — VS Code & Cursor Extension (500+ downloads)
 - Real-time English-to-Korean translation for developers
 
+**[ghostmeet](https://github.com/Higangssh/ghostmeet)** — Self-hosted AI meeting assistant
+[![GitHub stars](https://img.shields.io/github/stars/Higangssh/ghostmeet)](https://github.com/Higangssh/ghostmeet)
+- Invisible meeting transcription and summaries, like Otter.ai but open source
+- Go · MIT License
+
+**[teamtalk](https://github.com/Higangssh/teamtalk)** — AI team debates in your terminal
+[![GitHub stars](https://img.shields.io/github/stars/Higangssh/teamtalk)](https://github.com/Higangssh/teamtalk)
+- Multiple expert personas discuss, challenge each other, and reach a decision
+- Go · MIT License
+
 **[gongdata](https://github.com/Higangssh/gongdata)** — Korea Public Data API SDK
 
 ---
@@ -30,7 +40,7 @@
 
 | Project | PR | Description |
 |---|---|---|
-| **[MCP Servers](https://github.com/modelcontextprotocol/servers)** (80k+ ⭐) | [#2932](https://github.com/modelcontextprotocol/servers/pull/2932) ✅ | Fixed Docker build failures |
+| **[MCP Servers](https://github.com/modelcontextprotocol/servers)** (81k+ ⭐) | [#2932](https://github.com/modelcontextprotocol/servers/pull/2932) ✅ | Fixed Docker build failures |
 | **[Hono.js](https://github.com/honojs/hono)** (29k+ ⭐) | [#4479](https://github.com/honojs/hono/pull/4479), [#4471](https://github.com/honojs/hono/issues/4471) 🔒 | Identified CORS cache poisoning risk and submitted fix |
 | **[GitHub MCP Server](https://github.com/github/github-mcp-server)** (27k+ ⭐) | [#1305](https://github.com/github/github-mcp-server/pull/1305) ✅ | Added state metadata to `get_discussion` tool |
 | **[TOON](https://github.com/toon-format/toon)** (23k+ ⭐) | [#51](https://github.com/toon-format/toon/pull/51) ✅ | Added `--stats` flag for token savings visualization |
