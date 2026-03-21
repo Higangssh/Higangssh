@@ -47,5 +47,5 @@
 | **[Claude Code Templates](https://github.com/davila7/claude-code-templates)** (23k+ ⭐) | [#107](https://github.com/davila7/claude-code-templates/pull/107), [#118](https://github.com/davila7/claude-code-templates/pull/118) ✅ | Fixed Windows cross-platform compatibility |
 | **[SuperClaude](https://github.com/SuperClaude-Org/SuperClaude_Framework)** (21k+ ⭐) | [#214](https://github.com/SuperClaude-Org/SuperClaude_Framework/pull/214) ✅ | Code cleanup |
 | **[TypeScript-Eslint](https://github.com/typescript-eslint/typescript-eslint)** (16k+ ⭐) | [#11764](https://github.com/typescript-eslint/typescript-eslint/pull/11764) ✅ | Fixed `restrict-template-expressions` for LSP compliance |
-| **[awesome-devops-mcp-servers](https://github.com/rohitg00/awesome-devops-mcp-servers)** (960+ ⭐) | [#59](https://github.com/rohitg00/awesome-devops-mcp-servers/pull/59) ✅ | Added homebutler to Container Orchestration section |
 | **[lakeFS](https://github.com/treeverse/lakeFS)** (5.2k+ ⭐) | [#9874](https://github.com/treeverse/lakeFS/pull/9874) ✅ | Added `--all` and `--repo` flags to `kv dump` |
+| **[awesome-devops-mcp-servers](https://github.com/rohitg00/awesome-devops-mcp-servers)** (960+ ⭐) | [#59](https://github.com/rohitg00/awesome-devops-mcp-servers/pull/59) ✅ | Added homebutler to Container Orchestration section |
