@@ -49,3 +49,4 @@
 | **[TypeScript-Eslint](https://github.com/typescript-eslint/typescript-eslint)** (16k+ ⭐) | [#11764](https://github.com/typescript-eslint/typescript-eslint/pull/11764) ✅ | Fixed `restrict-template-expressions` for LSP compliance |
 | **[lakeFS](https://github.com/treeverse/lakeFS)** (5.2k+ ⭐) | [#9874](https://github.com/treeverse/lakeFS/pull/9874) ✅ | Added `--all` and `--repo` flags to `kv dump` |
 | **[awesome-devops-mcp-servers](https://github.com/rohitg00/awesome-devops-mcp-servers)** (960+ ⭐) | [#59](https://github.com/rohitg00/awesome-devops-mcp-servers/pull/59) ✅ | Added homebutler to Container Orchestration section |
+| **[awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers)** (84k+ ⭐) | [#2358](https://github.com/punkpeye/awesome-mcp-servers/pull/2358) ✅ | Added homebutler to Monitoring section |
