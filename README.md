@@ -25,6 +25,14 @@
 - Invisible meeting transcription and summaries, like Otter.ai but open source
 - Go · MIT License
 
+**[winclipshot](https://github.com/Higangssh/winclipshot)** — Paste screenshots into Windows terminals as file paths
+  [![GitHub stars](https://img.shields.io/github/stars/Higangssh/winclipshot)](https://github.com/Higangssh/winclipshot)
+  [![Release](https://img.shields.io/github/v/release/Higangssh/winclipshot)](https://github.com/Higangssh/winclipshot/releases)
+  - Win+Shift+S → Ctrl+V works in Claude Code, Aider, ssh sessions, any terminal CLI
+  - Event-driven clipboard watcher with foreground-window detection (~0% CPU, ~15MB RSS)
+  - Single 3.5MB binary, no installer, no global hotkeys
+  - Go · MIT License
+
 **[Korean Code Translator](https://github.com/Higangssh/korean-translator)** — VS Code & Cursor Extension (500+ downloads)
 - Real-time English-to-Korean translation for developers
 
@@ -33,7 +41,6 @@
 - Multiple expert personas discuss, challenge each other, and reach a decision
 - Go · MIT License
 
-**[gongdata](https://github.com/Higangssh/gongdata)** — Korea Public Data API SDK
 
 ---
 
