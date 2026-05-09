@@ -39,19 +39,6 @@
 - Interactive TUI for quick environment switching
 - Go · MIT License
 
-**[Korean Code Translator](https://github.com/Higangssh/korean-translator)** — VS Code & Cursor Extension (500+ downloads)
-- Real-time English-to-Korean translation for developers
-
-**[teamtalk](https://github.com/Higangssh/teamtalk)** — AI team debates in your terminal
-[![GitHub stars](https://img.shields.io/github/stars/Higangssh/teamtalk)](https://github.com/Higangssh/teamtalk)
-- Multiple expert personas discuss, challenge each other, and reach a decision
-- Go · MIT License
-
-**[gongdata](https://github.com/Higangssh/gongdata)** — Korea Public Data SDK
-[![GitHub stars](https://img.shields.io/github/stars/Higangssh/gongdata)](https://github.com/Higangssh/gongdata)
-- TypeScript SDK for Korea public data APIs
-- TypeScript · MIT License
-
 ---
 
 ### 🌟 **Open Source Contributions**
