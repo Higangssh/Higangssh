@@ -23,7 +23,7 @@
 **[ghostmeet](https://github.com/Higangssh/ghostmeet)** — Self-hosted AI meeting assistant
 [![GitHub stars](https://img.shields.io/github/stars/Higangssh/ghostmeet)](https://github.com/Higangssh/ghostmeet)
 - Invisible meeting transcription and summaries, like Otter.ai but open source
-- Go · MIT License
+- Python · MIT License
 
 **[winclipshot](https://github.com/Higangssh/winclipshot)** — Paste screenshots into Windows terminals as file paths
 [![GitHub stars](https://img.shields.io/github/stars/Higangssh/winclipshot)](https://github.com/Higangssh/winclipshot)
