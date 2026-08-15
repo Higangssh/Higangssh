@@ -45,14 +45,14 @@
 
 | Project | PR | Description |
 |---|---|---|
-| **[awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers)** (91.7k+ ⭐) | [#2358](https://github.com/punkpeye/awesome-mcp-servers/pull/2358) ✅ | Added homebutler to Monitoring section |
-| **[MCP Servers](https://github.com/modelcontextprotocol/servers)** (89.1k+ ⭐) | [#2932](https://github.com/modelcontextprotocol/servers/pull/2932) ✅ | Fixed Docker build failures |
-| **[GitHub MCP Server](https://github.com/github/github-mcp-server)** (31.9k+ ⭐) | [#1305](https://github.com/github/github-mcp-server/pull/1305) ✅ | Added state metadata to `get_discussion` tool |
-| **[Hono.js](https://github.com/honojs/hono)** (31.5k+ ⭐) | [#4479](https://github.com/honojs/hono/pull/4479), [#4471](https://github.com/honojs/hono/issues/4471) 🔒 | Identified CORS cache poisoning risk and submitted fix |
-| **[Claude Code Templates](https://github.com/davila7/claude-code-templates)** (30.0k+ ⭐) | [#107](https://github.com/davila7/claude-code-templates/pull/107), [#118](https://github.com/davila7/claude-code-templates/pull/118) ✅ | Fixed Windows cross-platform compatibility |
-| **[TOON](https://github.com/toon-format/toon)** (25.0k+ ⭐) | [#51](https://github.com/toon-format/toon/pull/51) ✅ | Added `--stats` flag for token savings visualization |
-| **[SuperClaude](https://github.com/SuperClaude-Org/SuperClaude_Framework)** (23.6k+ ⭐) | [#214](https://github.com/SuperClaude-Org/SuperClaude_Framework/pull/214) ✅ | Code cleanup |
-| **[TypeScript-Eslint](https://github.com/typescript-eslint/typescript-eslint)** (16.3k+ ⭐) | [#11764](https://github.com/typescript-eslint/typescript-eslint/pull/11764) ✅ | Fixed `restrict-template-expressions` for LSP compliance |
+| **[awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers)** (92.3k+ ⭐) | [#2358](https://github.com/punkpeye/awesome-mcp-servers/pull/2358) ✅ | Added homebutler to Monitoring section |
+| **[MCP Servers](https://github.com/modelcontextprotocol/servers)** (89.6k+ ⭐) | [#2932](https://github.com/modelcontextprotocol/servers/pull/2932) ✅ | Fixed Docker build failures |
+| **[GitHub MCP Server](https://github.com/github/github-mcp-server)** (32.3k+ ⭐) | [#1305](https://github.com/github/github-mcp-server/pull/1305) ✅ | Added state metadata to `get_discussion` tool |
+| **[Hono.js](https://github.com/honojs/hono)** (31.7k+ ⭐) | [#4479](https://github.com/honojs/hono/pull/4479), [#4471](https://github.com/honojs/hono/issues/4471) 🔒 | Identified CORS cache poisoning risk and submitted fix |
+| **[Claude Code Templates](https://github.com/davila7/claude-code-templates)** (30.2k+ ⭐) | [#107](https://github.com/davila7/claude-code-templates/pull/107), [#118](https://github.com/davila7/claude-code-templates/pull/118) ✅ | Fixed Windows cross-platform compatibility |
+| **[TOON](https://github.com/toon-format/toon)** (25.2k+ ⭐) | [#51](https://github.com/toon-format/toon/pull/51) ✅ | Added `--stats` flag for token savings visualization |
+| **[SuperClaude](https://github.com/SuperClaude-Org/SuperClaude_Framework)** (23.8k+ ⭐) | [#214](https://github.com/SuperClaude-Org/SuperClaude_Framework/pull/214) ✅ | Code cleanup |
+| **[TypeScript-Eslint](https://github.com/typescript-eslint/typescript-eslint)** (16.4k+ ⭐) | [#11764](https://github.com/typescript-eslint/typescript-eslint/pull/11764) ✅ | Fixed `restrict-template-expressions` for LSP compliance |
 | **[lakeFS](https://github.com/treeverse/lakeFS)** (5.5k+ ⭐) | [#9874](https://github.com/treeverse/lakeFS/pull/9874) ✅ | Added `--all` and `--repo` flags to `kv dump` |
 | **[Awesome-Selfhosted Data](https://github.com/awesome-selfhosted/awesome-selfhosted-data)** (1.1k+ ⭐) | [#2701](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/2701) ✅ | Added homebutler package metadata |
 | **[awesome-devops-mcp-servers](https://github.com/rohitg00/awesome-devops-mcp-servers)** (1.0k+ ⭐) | [#59](https://github.com/rohitg00/awesome-devops-mcp-servers/pull/59) ✅ | Added homebutler to Container Orchestration section |
