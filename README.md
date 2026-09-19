@@ -9,7 +9,7 @@
 **[homebutler](https://github.com/Higangssh/homebutler)** — Homelab management CLI + MCP server
 [![GitHub stars](https://img.shields.io/github/stars/Higangssh/homebutler)](https://github.com/Higangssh/homebutler)
 [![Release](https://img.shields.io/github/v/release/Higangssh/homebutler)](https://github.com/Higangssh/homebutler/releases)
-- Latest release: **v0.34.0**
+- Latest release: **v0.35.2**
 - Single binary, multi-server SSH, Docker management, Wake-on-LAN, network scanning
 - Built-in MCP server for Claude Desktop, ChatGPT, Cursor
 - Go · MIT License
@@ -45,9 +45,9 @@
 
 | Project | PR | Description |
 |---|---|---|
-| **[MCP Servers](https://github.com/modelcontextprotocol/servers)** (90.4k+ ⭐) | [#2932](https://github.com/modelcontextprotocol/servers/pull/2932) ✅ | Fixed Docker build failures |
+| **[MCP Servers](https://github.com/modelcontextprotocol/servers)** (90.5k+ ⭐) | [#2932](https://github.com/modelcontextprotocol/servers/pull/2932) ✅ | Fixed Docker build failures |
 | **[GitHub MCP Server](https://github.com/github/github-mcp-server)** (33.0k+ ⭐) | [#1305](https://github.com/github/github-mcp-server/pull/1305) ✅ | Added state metadata to `get_discussion` tool |
-| **[Hono.js](https://github.com/honojs/hono)** (32.2k+ ⭐) | [#4479](https://github.com/honojs/hono/pull/4479), [#4471](https://github.com/honojs/hono/issues/4471) 🔒 | Identified CORS cache poisoning risk and submitted fix |
+| **[Hono.js](https://github.com/honojs/hono)** (32.3k+ ⭐) | [#4479](https://github.com/honojs/hono/pull/4479), [#4471](https://github.com/honojs/hono/issues/4471) 🔒 | Identified CORS cache poisoning risk and submitted fix |
 | **[Claude Code Templates](https://github.com/davila7/claude-code-templates)** (30.8k+ ⭐) | [#107](https://github.com/davila7/claude-code-templates/pull/107), [#118](https://github.com/davila7/claude-code-templates/pull/118) ✅ | Fixed Windows cross-platform compatibility |
 | **[TOON](https://github.com/toon-format/toon)** (25.4k+ ⭐) | [#51](https://github.com/toon-format/toon/pull/51) ✅ | Added `--stats` flag for token savings visualization |
 | **[SuperClaude](https://github.com/SuperClaude-Org/SuperClaude_Framework)** (23.9k+ ⭐) | [#214](https://github.com/SuperClaude-Org/SuperClaude_Framework/pull/214) ✅ | Code cleanup |
