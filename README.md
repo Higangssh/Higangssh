@@ -9,7 +9,7 @@
 **[homebutler](https://github.com/Higangssh/homebutler)** — Homelab management CLI + MCP server
 [![GitHub stars](https://img.shields.io/github/stars/Higangssh/homebutler)](https://github.com/Higangssh/homebutler)
 [![Release](https://img.shields.io/github/v/release/Higangssh/homebutler)](https://github.com/Higangssh/homebutler/releases)
-- Latest release: **v0.41.0**
+- Latest release: **v0.41.3**
 - Single binary, multi-server SSH, Docker management, Wake-on-LAN, network scanning
 - Built-in MCP server for Claude Desktop, ChatGPT, Cursor
 - Go · MIT License
@@ -51,11 +51,11 @@
 
 | Project | PR | Description |
 |---|---|---|
-| **[MCP Servers](https://github.com/modelcontextprotocol/servers)** (91.0k+ ⭐) | [#2932](https://github.com/modelcontextprotocol/servers/pull/2932) ✅ | Fixed Docker build failures |
-| **[GitHub MCP Server](https://github.com/github/github-mcp-server)** (33.3k+ ⭐) | [#1305](https://github.com/github/github-mcp-server/pull/1305) ✅ | Added state metadata to `get_discussion` tool |
-| **[Hono.js](https://github.com/honojs/hono)** (32.4k+ ⭐) | [#4479](https://github.com/honojs/hono/pull/4479), [#4471](https://github.com/honojs/hono/issues/4471) 🔒 | Identified CORS cache poisoning risk and submitted fix |
-| **[Claude Code Templates](https://github.com/davila7/claude-code-templates)** (32.3k+ ⭐) | [#107](https://github.com/davila7/claude-code-templates/pull/107), [#118](https://github.com/davila7/claude-code-templates/pull/118) ✅ | Fixed Windows cross-platform compatibility |
-| **[TOON](https://github.com/toon-format/toon)** (25.4k+ ⭐) | [#51](https://github.com/toon-format/toon/pull/51) ✅ | Added `--stats` flag for token savings visualization |
+| **[MCP Servers](https://github.com/modelcontextprotocol/servers)** (91.1k+ ⭐) | [#2932](https://github.com/modelcontextprotocol/servers/pull/2932) ✅ | Fixed Docker build failures |
+| **[GitHub MCP Server](https://github.com/github/github-mcp-server)** (33.5k+ ⭐) | [#1305](https://github.com/github/github-mcp-server/pull/1305) ✅ | Added state metadata to `get_discussion` tool |
+| **[Claude Code Templates](https://github.com/davila7/claude-code-templates)** (32.5k+ ⭐) | [#107](https://github.com/davila7/claude-code-templates/pull/107), [#118](https://github.com/davila7/claude-code-templates/pull/118) ✅ | Fixed Windows cross-platform compatibility |
+| **[Hono.js](https://github.com/honojs/hono)** (32.5k+ ⭐) | [#4479](https://github.com/honojs/hono/pull/4479), [#4471](https://github.com/honojs/hono/issues/4471) 🔒 | Identified CORS cache poisoning risk and submitted fix |
+| **[TOON](https://github.com/toon-format/toon)** (25.5k+ ⭐) | [#51](https://github.com/toon-format/toon/pull/51) ✅ | Added `--stats` flag for token savings visualization |
 | **[SuperClaude](https://github.com/SuperClaude-Org/SuperClaude_Framework)** (23.9k+ ⭐) | [#214](https://github.com/SuperClaude-Org/SuperClaude_Framework/pull/214) ✅ | Code cleanup |
 | **[TypeScript-Eslint](https://github.com/typescript-eslint/typescript-eslint)** (16.4k+ ⭐) | [#11764](https://github.com/typescript-eslint/typescript-eslint/pull/11764) ✅ | Fixed `restrict-template-expressions` for LSP compliance |
 | **[lakeFS](https://github.com/treeverse/lakeFS)** (5.6k+ ⭐) | [#9874](https://github.com/treeverse/lakeFS/pull/9874) ✅ | Added `--all` and `--repo` flags to `kv dump` |
